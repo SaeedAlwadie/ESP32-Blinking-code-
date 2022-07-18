@@ -5,4 +5,9 @@ This code is to check if the ESP32 device is running or not .By running this cod
 
 1- First,we need to dowanload and install Arduino IDE .
 
-2- after installing Arduino IDE 
+2- after installing Arduino IDE run the porgram .
+
+3- connect this ESP32 device to the computer .
+
+## ESO32 LED code to blink:
+```
